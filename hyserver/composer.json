@@ -23,6 +23,7 @@
         "hyperf/framework": "2.2.x-dev",
         "hyperf/guzzle": "2.2.x-dev",
         "hyperf/http-server": "2.2.x-dev",
+        "hyperf/ide-helper": "2.2.x-dev",
         "hyperf/json-rpc": "2.2.x-dev",
         "hyperf/logger": "2.2.x-dev",
         "hyperf/memory": "2.2.x-dev",

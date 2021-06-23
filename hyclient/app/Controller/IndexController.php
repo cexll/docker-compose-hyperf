@@ -16,15 +16,13 @@ use Hyperf\Di\Annotation\Inject;
 use App\RPC\CalculatorServiceInterface;
 use Hyperf\HttpServer\Annotation\AutoController;
 
-/**
- * @AutoController()
- */
+#[AutoController]
 class IndexController extends AbstractController
 {
     /**
-     * @Inject
      * @var CalculatorServiceInterface
      */
+    #[Inject()]
     public $calcService;
 
 

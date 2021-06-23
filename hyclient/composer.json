@@ -12,7 +12,7 @@
     "description": "A coroutine framework that focuses on hyperspeed and flexible, specifically use for build microservices and middlewares.",
     "license": "Apache-2.0",
     "require": {
-        "php": ">=8.0",
+        "php": ">=7.3",
         "hyperf/cache": "2.2.x-dev",
         "hyperf/circuit-breaker": "2.2.x-dev",
         "hyperf/command": "2.2.x-dev",
@@ -23,6 +23,7 @@
         "hyperf/framework": "2.2.x-dev",
         "hyperf/guzzle": "2.2.x-dev",
         "hyperf/http-server": "2.2.x-dev",
+        "hyperf/ide-helper": "2.2.x-dev",
         "hyperf/json-rpc": "2.2.x-dev",
         "hyperf/logger": "2.2.x-dev",
         "hyperf/memory": "2.2.x-dev",
